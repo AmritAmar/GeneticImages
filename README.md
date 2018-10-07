@@ -1,8 +1,3 @@
-
-
-
-
-
 # Using Genetic Algorithms to Reproduce Images under Limitations
 
 This is a project I made for my Artificial Intelligence Class under the Team "Real Intelligence". It is a image generation program that uses primitive shapes to generate images using genetic algorithms.
