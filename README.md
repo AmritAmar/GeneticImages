@@ -20,9 +20,9 @@ Mona Lisa:
 In this case, I set up the program to recreate Mona Lisa. The end result has some detail with the face and the overall picture.
 
 ![MLOG](https://github.com/AmritAmar/GeneticImages/blob/master/mona_lisa.jpg)
-![ML1](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/MonaLisaBegin.gif)
-![ML2](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/MonaLisaMedium.gif)
-![ML3](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/MonaLisaEnd.gif)
+![ML1](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/MonaBegin.gif)
+![ML2](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/MonaMedium.gif)
+![ML3](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/MonaEnd.gif)
 
 ## Getting Started
 
