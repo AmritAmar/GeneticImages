@@ -8,7 +8,21 @@ The paper my team wrote for this project is available here: https://drive.google
 
 Eiffel Tower:
 
+Here I set up the program to recreate the Eiffel Tower. The end result isn't quite as nice as the original, but it does have gradients!
+
+![EFOG](https://github.com/AmritAmar/GeneticImages/blob/master/eiffel2.png)
+![EF1](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/EiffelStart.gif)
+![EF2](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/EiffelMedium.gif)
+![EF3](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/EiffelEnd.gif)
+
 Mona Lisa:
+
+In this case, I set up the program to recreate Mona Lisa. The end result has some detail with the face and the overall picture.
+
+![MLOG](https://github.com/AmritAmar/GeneticImages/blob/master/mona_lisa.jpg)
+![ML1](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/MonaLisaBegin.gif)
+![ML2](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/MonaLisaMedium.gif)
+![ML3](https://github.com/AmritAmar/GeneticImages/blob/master/Gifs/MonaLisaEnd.gif)
 
 ## Getting Started
 
