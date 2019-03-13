@@ -27,10 +27,11 @@ In this case, I set up the program to recreate Mona Lisa. The end result has som
 ## Getting Started
 
 Simply clone and open this java project. Adjust parameters in the GeneticImages_SingleParent.java file.
-
+```
 Lines 51-52: Adjust the filepath of the image you would like to recreate
 Lines 56-62: Comment/Uncomment the shapes that should be included
 Lines 64-75: Adjust global Simulation Settings
+```
 
 ## Authors
 
