@@ -4,9 +4,19 @@ This is a project I made for my Artificial Intelligence Class under the Team "Re
 
 The paper my team wrote for this project is available here: https://drive.google.com/file/d/18TFZThbFswRllVY08Np8gfi7XHtzdqvD/view?usp=sharing
 
+## Examples
+
+Eiffel Tower:
+
+Mona Lisa:
+
 ## Getting Started
 
-Simply clone and open this java project. Running this is simple: clone and then adjust parameters in the GeneticImages_SingleParent.java file.
+Simply clone and open this java project. Adjust parameters in the GeneticImages_SingleParent.java file.
+
+Lines 51-52: Adjust the filepath of the image you would like to recreate
+Lines 56-62: Comment/Uncomment the shapes that should be included
+Lines 64-75: Adjust global Simulation Settings
 
 ## Authors
 
